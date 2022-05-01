@@ -1,2 +1,8 @@
-
-1
+ID: 1
+Version: Windows 10
+Summary: Не переведены на русский язык тексты ошибок на форме “Заявки” на странице https://nazvanienepridumal.com в RU версии сайта,
+Steps: Открыть страницу https://nazvanienepridumal.com Проскролить к форме “Заявки” Нажать на кнопку “Отправить” Обратить внимание на язык ошибок, которые появились под полями формы
+Actual result: Отображаются ошибки на русском языке
+Expected result: Отображаются ошибки на английском языке
+Severity: Minor
+Attachments: Screenshot URL: url.com
